@@ -5,5 +5,5 @@ public interface Figura {
     public double calcularArea();
     public double calcularPerimetro();
     //Dibujar la figura en la pantalla, en modo texto*
-    public void dibujarTxt();    
+    public void dibujarTxt();
 }
